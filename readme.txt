@@ -7,12 +7,6 @@ feature extraction of 1D-LBP
 2D-LBP.py
 feature extraction of 2D-LBP
 
-classification1.py
-feature selection and classification of 1D-LBP
-
-classification2.py
-feature selection and classification of 2D-LBP
-
 fusion.py
 late fusion of 1D-LBP and 2D-LBP
 
